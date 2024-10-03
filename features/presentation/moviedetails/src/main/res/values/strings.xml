@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_details">Movie Details</string>
+    <string name="navigate_back">Navigate Back</string>
+    <string name="no_movie_details_found">No movie details found</string>
+    <string name="go_back">Go back</string>
+    <string name="cast">Cast</string>
+    <string name="overall_rating">Overall Rating</string>
+    <string name="try_again">Try Again!</string>
+    <string name="genre_seprator">" • "</string>
+</resources>

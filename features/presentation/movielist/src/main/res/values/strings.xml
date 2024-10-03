@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="top_charts">Top Charts</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="unable_to_connect_to_the_internet">Unable to connect to the internet</string>
+    <string name="server_unavailable">Server unavailable</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unauthorized_error">Unauthorized request</string>
+    <string name="not_found_error">Resource not found</string>
+    <string name="try_again">Try Again</string>
+    <string name="malformed_data_error">Response is malformed</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="genre_seprator">" • "</string>
+</resources>
